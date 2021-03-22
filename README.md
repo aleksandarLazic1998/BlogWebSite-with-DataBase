@@ -1,9 +1,8 @@
 # BlogWebSite-with-DataBase
 
-This App was made with JavaScript and some other npm packages
-{
-express,
-lodash,
-EJS
-Mongoose
-}
+This app was made with Html,Css,JavaScript and some npm packages like: body-parser, ejs, express, lodash and mongoose
+
+   
+  
+    
+   
